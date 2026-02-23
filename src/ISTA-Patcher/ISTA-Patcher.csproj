@@ -6,7 +6,7 @@
     <Copyright>Copyright (C) 2022-2025 TautCony.
 Released under the GNU GPLv3+.</Copyright>
     <Title>$(AssemblyName)</Title>
-    <Authors>TautCony</Authors>
+    <Authors>Botho</Authors>
     <PackageProjectUrl>https://github.com/tautcony/ISTA-Patcher</PackageProjectUrl>
     <RepositoryUrl>https://github.com/tautcony/ISTA-Patcher</RepositoryUrl>
     <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
