@@ -37,7 +37,7 @@ jobs:
 
     - name: Restore dependencies
       run: |
-        dotnet restore src/ISTA-Patcher/ISTA-Patcher.csproj --locked-mode
+        dotnet restore src/ISTA-Patcher/ISTA-Patcher.csproj --force-evaluate
 
     - name: Update version info
       if: ${{ !startsWith(github.ref, 'refs/tags/v') }}
